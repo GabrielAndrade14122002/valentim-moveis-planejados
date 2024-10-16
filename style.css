@@ -1,0 +1,208 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+
+
+
+.barra-de-topo{
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 5px solid #FFD700;
+}
+
+#cabecalho{
+    background: url("./imagens/moveis-planejados-para-escritorio-pequeno-valor.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.cozinha{
+    text-align: center;
+    background-color: #333;
+    border: 5px solid #FFD700;
+    
+}
+.picture{
+    
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.gabinete{
+    
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.description{
+    background-color: #333;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #FFD700;
+    margin-bottom: 10px;
+
+}
+.quartos{
+    text-align: center;
+    background-color: #333;
+    border: 5px solid #FFD700;
+}
+
+.primeiro-guarda{
+    height: 200px;
+    width: 180px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.segundo-guarda{
+    height: 200px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+
+.fileira-um{
+    
+    text-align: center;
+    background-color: #333;
+    
+}
+.fileira-dois{
+    text-align: center;
+    background-color: #333;
+    margin-bottom: 10px;
+   
+
+}
+footer{
+    background-color: #333;
+    border-top: 5px solid #FFD700;
+
+}
+.social-icon{
+    width: 80px;
+}
+.social-icons{
+    text-align: center;
+}
+
+.escritorio{
+    text-align: center;
+    background-color: #333;
+    border: 5px solid #FFD700;
+    
+}
+
+.sala{
+    text-align: center;
+    background-color: #333;
+    border: 5px solid #FFD700;
+    
+}
+
+.outros{
+    text-align: center;
+    background-color: #333;
+    border: 5px solid #FFD700;
+    
+}
+.contato{
+    background-color: #333;
+    color: white;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.escritorio-dois{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.escritorio-um{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.sala-um{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.sala-dois{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.sala-tres{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.sala-quatro{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.primeiro-comodo{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.segundo-comodo{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.terceiro-comodo{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.quarto-comodo{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.quinto-comodo{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
